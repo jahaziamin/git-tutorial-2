@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('feature1');
+console.log('feature2');
